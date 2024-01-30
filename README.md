@@ -1,4 +1,5 @@
-<h1># the developer &nbsp;&nbsp;&nbsp;&nbsp; reactjs &nbsp;&nbsp; nodejs with express</h1>
+<h1># the developer </h1>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp; reactjs &nbsp;&nbsp; nodejs with express</h2>
 <p>👋 Hi, I’m Rajesh Kumar S </p>
 <ul>
   <li>👀 I’m interested in programming and coding </li>
