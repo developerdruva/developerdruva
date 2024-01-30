@@ -1,4 +1,4 @@
-<div style="font-size: 18px;"># the developer</div>
+<h1># the developer</h1>
 - 👋 Hi, I’m Rajesh Kumar S 
 - #developerdruva
 - 👀 I’m interested in programming and coding
