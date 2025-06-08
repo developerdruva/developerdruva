@@ -1,5 +1,5 @@
 <h1># the developer </h1>
-<h3> reactjs and nodejs with express :) </h3>
+<h3> nextjs + reactjs and nodejs with expressjs :) </h3>
 <p>👋 Hi, this is Rajesh Kumar S </p>
 <ul>
   <li>👀 I’m interested in programming and coding </li>
