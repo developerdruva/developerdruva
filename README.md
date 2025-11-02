@@ -14,7 +14,7 @@
 
 ---
 
-### 🚧 My Projects
+### 🚧 My POC's
 
 - 🛒 **Sudoshop**  
 - 🎞️ **StreamlineOTT**  
