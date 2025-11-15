@@ -4,6 +4,7 @@
 
 👋 Hi, this is **Rajesh Kumar S**
 
+topics🤖
 - 🔎 I’m interested in programming and coding  
 - 🌱 I’m a **MERN Stack** developer. Currently working on **React.js with Redux**  
 - 🤝 I’m looking to collaborate on **Full Stack Development** with backend **Node.js (Express framework)**  
